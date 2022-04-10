@@ -1,5 +1,10 @@
 public class Practice1 {
 
 
-    // commit
+    // step 1
+
+    //step 2
+
+
+
 }
